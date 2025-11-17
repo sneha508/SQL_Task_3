@@ -41,9 +41,7 @@ Paste the contents from task3.sql
 Run queries step-by-step
 Check the output & take screenshots
 
-Task done by:Sneha Ravindra Kanade.
- 
-
 Task Completed
-
 This database covers all required SQL concepts for Task 3.
+
+Task done by:Sneha Ravindra Kanade.
